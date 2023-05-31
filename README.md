@@ -1,2 +1,2 @@
-# Rythm-Music-
+# Rythm-Music
 Music Player Created using Android Studio 
